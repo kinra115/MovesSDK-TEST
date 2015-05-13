@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BB9EBA5A-CB9E-4773-9455-DE4F8CC38EC7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MovesSDKDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>53911DA2ECAA79823266AABA8D561974C51A4F7E</key>
+		<string>https://github.com/vitoziv/moves-ios-sdk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MovesSDKDemo/MovesSDKDemo.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>53911DA2ECAA79823266AABA8D561974C51A4F7E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vitoziv/moves-ios-sdk.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>53911DA2ECAA79823266AABA8D561974C51A4F7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>53911DA2ECAA79823266AABA8D561974C51A4F7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>moves-ios-sdk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
